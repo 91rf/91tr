@@ -2,9 +2,9 @@
 
  :heart: :point_right: 【最新地址1】 ：https://91wy2.pages.dev/a1
  ------
- :heart: :point_right: 【最新地址2】 ：ttps://91wy2.pages.dev/a2
+ :heart: :point_right: 【最新地址2】 ：https://91wy2.pages.dev/a2
  ------
- :heart: :point_right: 【最新地址3】 ：ttps://91wy2.pages.dev/a3
+ :heart: :point_right: 【最新地址3】 ：https://91wy2.pages.dev/a3
  ------
 
 
